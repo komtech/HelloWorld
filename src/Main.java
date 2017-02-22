@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World using GitHub");
 		System.out.println("Modification Message");
+		System.out.println("branch bug #1234");
 	}
 
 }
