@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("branch bug #1234");
 		System.out.println("Another commit and push to remote github!!");
 		System.out.println("made change in remote and pull back to local repository!!");
-		
+		System.out.println("Hello from laptop");
 		
 	}
 
